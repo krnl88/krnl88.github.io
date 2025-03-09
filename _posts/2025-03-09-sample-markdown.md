@@ -1,37 +1,33 @@
 ---
 layout: post
-title: Sample blog post to learn markdown tips
-subtitle: There's lots to learn!
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
-comments: true
-mathjax: true
-author: Bill Smith
+title: Banking App Project
+subtitle: Personal Project
+#gh-repo: daattali/beautiful-jekyll
+#gh-badge: [star, fork, follow]
+#tags: [test]
+#comments: true
+#mathjax: true
+author: Karen Lee
 ---
 
-{: .box-success}
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
 
-**Here is some bold text**
+A java-based banking application which allows users to view balance, deposit, withdraw, transfer, and track past transactions. It has an optimised UI for better user experience with dialog pop-ups, and month-wise transaction grouping and summaries.
 
-## Here is a secondary heading
+This project is made using java(swing) for the GUI and JDBC (MySQL Database) which handles user authentication, transactions, and balance updates. 
 
-[This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
+⭐ Features Includes:
+- Login & User Management
+- Real-time Balance Updates
+- Deposit, Withdraw, and Transfer Money
+- Monthly Transaction Grouping
+- Income & Expense Breakdown
 
-Here's a table:
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+![Bank App Gui](/assets/img/bankingApp1.png){: style="width: 200px;" }
 
-You can use [MathJax](https://www.mathjax.org/) to write LaTeX expressions. For example:
-When \\(a \ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 
-How about a yummy crepe?
+
+<!-- How about a yummy crepe?
 
 ![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
 
@@ -98,3 +94,6 @@ If the above image is broken, then you'll need to follow the instructions [in th
 <summary>Click here!</summary>
 Here you can see an **expandable** section
 </details>
+
+
+==end -->

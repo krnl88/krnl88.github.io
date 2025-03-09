@@ -1,16 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Hi! :)
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I’m Karen Lee, a Software Technology student at Macquarie University, graduating in 2025. I’m passionate about coding because I find it incredible how you can build something just by typing on a computer. My goal is to create software that makes a real impact on people's lives.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+While my primary focus is software development, I also explore other areas like business (influenced by my family background), data and analytics—especially since I love working with MySQL, or something completely random. I'm always open to learning new things!
 
-What else do you need?
+Outside of coding, I love dancing! Unfortunately, I haven’t found many people who share this interest, so if you're up for it, feel free to hit me up.
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
