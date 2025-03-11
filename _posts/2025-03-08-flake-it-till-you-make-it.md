@@ -16,3 +16,5 @@ My client, Congo online book store, wants to expand its business to sell non-boo
 - Reducing Code Duplication: Refactored repeated data structures and combined functionality into a more structured, easier-to-maintain design.
 
 This project improved my ability to work with existing codebases using object-oriented principles and best practices in Java.
+
+![Shopping App Image](/assets/img/Shopping app.png){: style="width: 700px;" }

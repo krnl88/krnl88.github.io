@@ -9,9 +9,9 @@ subtitle: University Project - Macquarie University
 author: Karen Lee
 ---
 
-An automatic license scanner is made to ensure that visitors have valid entry requirements. These requirements include 21 years or older (the legal requirement to enter the venue), valid expiry date, height, eye color, and many more.
+An automatic license scanner is made to ensure that visitors have valid entry requirements. 
 
-The task included:
+The tasks included:
 
 - Data processing and validation using Java Streams & Lambdas: Created an effective pipeline to read, parse, and validate driver's license data from batch files.
 
@@ -21,3 +21,4 @@ The task included:
 
 This project strengthened my ability in composing clean, functional Java code, working with Streams & Lambdas, and handling real-world data validation scenarios.
 
+![License Scanner Image](/assets/img/licenseScanner.png){: style="width: 700px;" }

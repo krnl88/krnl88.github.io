@@ -10,20 +10,26 @@ subtitle: Personal Project
 author: Karen Lee
 ---
 
+This project is made using Java(swing) for the GUI and JDBC (MySQL Database). I tried to follow a step-by-step tutorial from [TapTapCode](https://github.com/curadProgrammer) to make a banking application to deepen my understanding of java and added some new features that I think will help users. 
 
-A java-based banking application which allows users to view balance, deposit, withdraw, transfer, and track past transactions. It has an optimised UI for better user experience with dialog pop-ups, and month-wise transaction grouping and summaries.
+⭐ Features before update: 
+- Login & user management
+- Real-time balance updates
+- Deposit, withdraw, and transfer money
 
-This project is made using java(swing) for the GUI and JDBC (MySQL Database) which handles user authentication, transactions, and balance updates. 
+⭐ Added Features:
+- Track past transactions by month
+- Income & expense summaries
 
-⭐ Features Includes:
-- Login & User Management
-- Real-time Balance Updates
-- Deposit, Withdraw, and Transfer Money
-- Monthly Transaction Grouping
-- Income & Expense Breakdown
+I have my own zip file of the code where I tried to connect it to my own database. However, to have an idea of the changes that I made, you can access it [here](https://github.com/krnl88/BankAppPractice). 
+
+Note : You can see the added features in src -> guis -> BankingAppDialog.
 
 
-![Bank App Gui](/assets/img/bankingApp1.png){: style="width: 200px;" }
+
+
+![Bank App Gui](/assets/img/bankingApp3.png){: style="width: 300px;" }
+![Bank App Gui](/assets/img/bankingApp4.png){: style="width: 300px;" }
 
 
 
