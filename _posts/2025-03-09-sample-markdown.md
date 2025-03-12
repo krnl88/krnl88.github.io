@@ -28,8 +28,8 @@ Note : You can see the added features in src -> guis -> BankingAppDialog.
 
 
 
-![Bank App Gui](/assets/img/bankingApp3.png){: style="width: 300px;" }
-![Bank App Gui](/assets/img/bankingApp4.png){: style="width: 300px;" }
+![Bank App Gui1](/assets/img/bankApp3.png){: style="width: 300px;" }
+![Bank App Gui2](/assets/img/bankingApp4.png){: style="width: 300px;" }
 
 
 
