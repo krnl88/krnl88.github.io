@@ -6,7 +6,7 @@ subtitle: University Project - Macquarie University
 # thumbnail-img: /assets/img/thumb.png
 # share-img: /assets/img/path.jpg
 # tags: [books, test]
-author: Karen Lee
+# author: Karen Lee
 ---
 
 My client, Congo online book store, wants to expand its business to sell non-book items. However, the code base has some issues. Some fixes that I made includes:

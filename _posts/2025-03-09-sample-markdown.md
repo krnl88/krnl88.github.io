@@ -7,10 +7,11 @@ subtitle: Personal Project
 #tags: [test]
 #comments: true
 #mathjax: true
-author: Karen Lee
 ---
 
-This project is made using Java(swing) for the GUI and JDBC (MySQL Database). I tried to follow a step-by-step tutorial from [TapTapCode](https://github.com/curadProgrammer) to make a banking application to deepen my understanding of java and added some new features that I think will help users. 
+**Tech stack**: Java, Swing, JDBC, MySQL
+
+Followed a tutorial from [TapTapCode](https://github.com/curadProgrammer) to build a banking application, with the goal of strengthening Java skills and database integration. Additional features were implemented beyond the tutorial to enhance overall user experience.
 
 ⭐ Features before update: 
 - Login & user management
@@ -21,10 +22,7 @@ This project is made using Java(swing) for the GUI and JDBC (MySQL Database). I 
 - Track past transactions by month
 - Income & expense summaries
 
-I have my own zip file of the code where I tried to connect it to my own database. However, to have an idea of the changes that I made, you can access it [here](https://github.com/krnl88/BankAppPractice). 
-
-Note : You can see the added features in src -> guis -> BankingAppDialog.
-
+You can access the codebase [here](https://github.com/krnl88/BankAppPractice). 
 
 
 

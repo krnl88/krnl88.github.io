@@ -6,7 +6,7 @@ subtitle: University Project - Macquarie University
 # thumbnail-img: /assets/img/thumb.png
 # share-img: /assets/img/path.jpg
 # tags: [books, test]
-author: Karen Lee
+# author: Karen Lee
 ---
 
 An automatic license scanner is made to ensure that visitors have valid entry requirements. 
