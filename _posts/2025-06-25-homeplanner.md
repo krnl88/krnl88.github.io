@@ -18,7 +18,7 @@ As part of a collaborative backend project for HomePlanner.io, our team focused 
 
 Basic error handling and checks to prevent duplicate entries are also implemented, ensuring smooth data flow to the front-end.
 
-![Bank App Gui1](/assets/img/Screenshot 2025-06-30 091537.png){: style="width: 300px;" }
-![Bank App Gui2](/assets/img/Screenshot 2025-06-30 092135.png){: style="width: 300px;" }
-![Bank App Gui2](/assets/img/Screenshot 2025-06-30 092217.png){: style="width: 300px;" }
-![Bank App Gui2](/assets/img/Screenshot 2025-06-30 092234.png){: style="width: 300px;" }
+![HomePlanner Gui1](/assets/img/Screenshot 2025-06-30 091537.png){: style="width: 300px;" }
+![HomePlanner Gui2](/assets/img/Screenshot 2025-06-30 092135.png){: style="width: 300px;" }
+![HomePlanner Gui3](/assets/img/Screenshot 2025-06-30 092217.png){: style="width: 300px;" }
+![HomePlanner Gui4](/assets/img/Screenshot 2025-06-30 092234.png){: style="width: 300px;" }
